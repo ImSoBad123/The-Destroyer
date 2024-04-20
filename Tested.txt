@@ -41,6 +41,7 @@ game:GetService("Players").PlayerAdded:Connect(function(r)
     end
 end)  
 local listed = {
+1041317993,
 4247294198,
 1485440429, -- hieutrungze
 1566703867, -- Ekko_gaming10
